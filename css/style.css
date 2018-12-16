@@ -19,3 +19,12 @@ body {
     letter-spacing: .4em;
     text-transform: uppercase;
 }
+
+.navbar-dark .navbar-nav .nav-link {
+   padding: 1.5rem;
+}
+
+.nav-link {
+    font-weight: 600;
+    font-size: 1.3em;
+}
