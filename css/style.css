@@ -14,3 +14,8 @@ body {
     padding: .375rem 2.75rem;
     font-weight: bold;    
 }
+
+.navbar-brand {
+    letter-spacing: .4em;
+    text-transform: uppercase;
+}
